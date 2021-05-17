@@ -1,0 +1,6 @@
+com\br\hruser\entities\RoleEntity.class
+com\br\hruser\HrUserApplication.class
+com\br\hruser\resources\UserResource.class
+com\br\hruser\config\AppConfig.class
+com\br\hruser\repositories\UserRepository.class
+com\br\hruser\entities\UserEntity.class

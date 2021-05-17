@@ -1,0 +1,4 @@
+com\br\hrworker\repositories\WorkerRepository.class
+com\br\hrworker\entities\WorkerEntity.class
+com\br\hrworker\HrWorkerApplication.class
+com\br\hrworker\resources\WorkerResource.class

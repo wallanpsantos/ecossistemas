@@ -1,4 +1,0 @@
-# Created at 2021-05-17T07:38:24.714
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Projetos\Github\ecossistemas\hr-config-server\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-
