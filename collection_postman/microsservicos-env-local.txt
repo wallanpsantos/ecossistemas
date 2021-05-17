@@ -1,9 +1,0 @@
-VARIABLE 		INITIAL VALUE 			CURRENT VALUE
-api-gateway 	http://localhost:8765 	http://localhost:8765
-config-host 	http://localhost:8888 	http://localhost:8888
-client-name 	myappname123 			myappname123
-client-secret 	myappsecret123 			myappsecret123
-username 		leia@gmail.com 			leia@gmail.com
-password 		123456 					123456
-token 
-email 			leia@gmail.com
