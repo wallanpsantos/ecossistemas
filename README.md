@@ -1,3 +1,18 @@
+# GIT FLOW INSTALADO
+
+### Branchs principais
+main -> Principal mesmo que a master
+develop -> Branch para desenvolvimento, no qual, são feito os merges das features
+
+### branchs prefixes
+feature/ 
+bugfix/
+release/
+hotfix/
+support/
+
+
+
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
 #### Nelio Alves 
 https://itau.udemy.com/course/microsservicos-java-spring-cloud/
