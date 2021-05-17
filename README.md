@@ -1,10 +1,6 @@
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
 #### Nelio Alves 
-https://www.udemy.com/user/nelio-alves
-
-https://youtube.com/devsuperior
-
-https://instagram.com/devsuperior.ig
+https://itau.udemy.com/course/microsservicos-java-spring-cloud/
 
 # Fase 1: Comunicação simples, Feign, Ribbon
 
@@ -224,3 +220,5 @@ fetch("http://localhost:8765/hr-worker/workers", {
   "credentials": "omit"
 });
 ```
+
+[containers-docker.pdf](https://github.com/wallanpsantos/ecossistemas/files/6490461/containers-docker.pdf)
