@@ -238,7 +238,7 @@ fetch("http://localhost:8765/hr-worker/workers", {
 
 ![arquitetura](https://user-images.githubusercontent.com/32087983/118420426-3295ea00-b695-11eb-9420-63f1e68cb7d7.jpg)
 
-==========================================================================================
+=============================================================================
 
 # Criando e testando containers Docker
 
