@@ -23,8 +23,8 @@ public class WorkerResource {
 
     private static Logger logger = LoggerFactory.getLogger(WorkerResource.class);
 
-    @Value("${hr-worker.config: Mock Local}")
-    private String microConfig;
+    @Value("${hr-worker.config: Erro ao acessar config remota, usando Mock Local}")
+    private String hrWorkerConfig;
 
     @Autowired
     private Environment environment;
@@ -37,7 +37,7 @@ public class WorkerResource {
      */
     @GetMapping(value = "/configs")
     public ResponseEntity<Void> getConfigs() {
-        logger.info("MICRO CONFIG = " + microConfig);
+        logger.info("HR-WORKER CONFIG = " + hrWorkerConfig);
         return ResponseEntity.noContent().build();
     }
 
