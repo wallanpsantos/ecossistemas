@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.br</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>hr-oauth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hr-oauth</name>
     <description>Servidor de autorização</description>

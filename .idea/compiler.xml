@@ -8,19 +8,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hr-payroll" />
+        <module name="hr-oauth" />
         <module name="hr-eurekaserver" />
         <module name="hr-config-server" />
         <module name="hr-worker" />
         <module name="hr-api-gateway-zuul" />
-        <module name="demo" />
         <module name="hr-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo" target="11" />
       <module name="hr-api-gateway-zuul" target="11" />
       <module name="hr-config-server" target="11" />
       <module name="hr-eurekaserver" target="11" />
+      <module name="hr-oauth" target="11" />
       <module name="hr-payroll" target="11" />
       <module name="hr-user" target="11" />
       <module name="hr-worker" target="11" />
@@ -28,10 +28,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo" options="-parameters" />
       <module name="hr-api-gateway-zuul" options="-parameters" />
       <module name="hr-config-server" options="-parameters" />
       <module name="hr-eurekaserver" options="-parameters" />
+      <module name="hr-oauth" options="-parameters" />
       <module name="hr-payroll" options="-parameters" />
       <module name="hr-user" options="-parameters" />
       <module name="hr-worker" options="-parameters" />
